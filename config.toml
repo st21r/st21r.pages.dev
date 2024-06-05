@@ -1,5 +1,6 @@
 # The URL the site will be built for
-base_url = "https://example.com"
+base_url = "https://st21r.pages.dev"
+title = "st21r"
 
 # Whether to automatically compile all Sass files in the sass directory
 compile_sass = true
