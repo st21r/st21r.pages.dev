@@ -107,7 +107,6 @@ MIT License: https://github.com/Speyll/suCSS/blob/main/LICENSE
 * {
   scrollbar-color: var(--accent) var(--bg-light);
   scrollbar-width: thin;
-  scrollbar-height: thin;
 }
 
 html {
@@ -136,23 +135,24 @@ body > footer {
 }
 
 /* Format headers */
+
 h1 {
-  font-size: 2rem;
-}
-h2 {
   font-size: 1.75rem;
 }
-h3 {
+h2 {
   font-size: 1.5rem;
 }
-h4 {
+h3 {
   font-size: 1.25rem;
 }
-h5 {
+h4 {
   font-size: 1rem;
 }
-h6 {
+h5 {
   font-size: .75rem;
+}
+h6 {
+  font-size: .5rem;
 }
 
 h2,

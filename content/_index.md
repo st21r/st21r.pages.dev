@@ -21,13 +21,13 @@ age: 21
 - Kotlin
 - Rust (勉強中)
 
-## links
-[GitHub](https://github.com/st21r/)
-
-[Twitter](https://x.com/sk4rdz)
-
-[AtCoder](https://atcoder.jp/users/sk4rd)
-
 ## works
 [英単語レンズ](https://play.google.com/store/apps/details?id=io.github.bjxytw.wordlens)
 - OCRで高速に検索できる英和辞書アプリ DL数8000↑
+
+## links
+[GitHub](https://github.com/st21r)
+
+[Twitter](https://x.com/st21r)
+
+[AtCoder](https://atcoder.jp/users/sk4rd)
