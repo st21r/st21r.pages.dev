@@ -28,11 +28,11 @@ MIT License: https://github.com/Speyll/suCSS/blob/main/LICENSE
     --bg-light: #464949;
     --text: #D6D6D6;
     --text-light: #DBD5BC;
-    --accent: #78B6AD;
-    --accent-light: #87C9E5;
+    --accent: #6ed0c2;
+    --accent-light: #72c5e9;
     --accent-text: var(--bg);
     --border: #DBD5BC;
-    --link: #dfa396;
+    --link: #dd8977;
   }
   img,
   video {
