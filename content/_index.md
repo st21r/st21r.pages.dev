@@ -6,7 +6,7 @@ name: st21r / stderr0r
 
 趣味で競技プログラミング・CTF・アプリ開発 (Android) などやってる大学生
 
-## archivement
+## achivement
 - AtCoder 水色 (highest:1417)
 - pck2021 本戦出場
 - SuperComputingContest2021 本戦2位
